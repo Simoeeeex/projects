@@ -1,0 +1,3 @@
+date_time,symbol,side,entry,exit,qty,strategy,bias,risked,profit
+2025-12-14 10:57,us30,BUY,5.0,6.0,1.0,mine,Bullish,100.0,1.0
+2025-12-14 11:01,Us30,BUY,0,0,2.0,Mine,Bullish,50.0,0.0
